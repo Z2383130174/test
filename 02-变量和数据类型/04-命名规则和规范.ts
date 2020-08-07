@@ -9,3 +9,4 @@ let age: number = 18
 let Age: number = 20
 console.log(age)
 console.log(Age)
+console.log('145');
